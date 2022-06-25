@@ -64,6 +64,7 @@ function Header() {
           <p className="category one">Coupons</p>
           <p className="category one">Car & Motorbike</p>
           <p className="category one">Beauty</p>
+          <p className="category one">Groceries</p>
           <p className="category one">Wellness</p>
         </div>
       </div>
